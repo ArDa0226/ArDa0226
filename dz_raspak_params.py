@@ -7,7 +7,7 @@ print_params()
 print_params(b=25)
 print_params(c=[1,2,3])
 
-#Распаковка параментров
+#Распаковка параметров
 values_list = [1, 'a', {'art':123}]
 values_dict = {'a': 123, 'b':[345], 'c': 'scare'}
 
